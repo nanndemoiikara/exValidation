@@ -3,9 +3,9 @@
  *
  * @version   : 1.3.3
  * @author    : nori (norimania@gmail.com)
- * @copyright : 5509 (http://5509.me/)
+ * @copyright : 5509 (https://github.com/5509/)
  * @license   : The MIT License
- * @link      : http://5509.me/log/exvalidation
+ * @link      : https://github.com/5509/exValidation/tree/master/scripts
  * @modified  : 2012-04-09 16:59
  */
 ;(function($, window, undefined) {
